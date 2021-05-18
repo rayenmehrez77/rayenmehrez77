@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm Rayen Mehrez👋</h1> 
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1605273559397/G0ABX03h4.png" alt="" />  
 <!--
 **rayenmehrez77/rayenmehrez77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
