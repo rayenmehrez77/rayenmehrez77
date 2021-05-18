@@ -1,8 +1,8 @@
-<h1>Hi there, I'm Rayen - [website] 👋</h1>
+<h1>Hi there, I'm Rayen Mehrez 👋</h1>
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://rayenmehrez.me/)
+[![Website](https://img.shields.io/website?label=rayenmehrez.me&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://rayenmehrez.me/)
 
-## I'm a Front end web Developer, and Student!!
+## I'm a Front end web Developer, and Student!
 
 - 🌱 I’m currently learning NEXT.JS 🤣
 - 👯 Currently, I'm a computer science student
@@ -14,12 +14,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://rayenmehrez.me/]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/ray6b5ab7192en-mehrez-/]
 <br />
 
 ### Languages and Tools:
