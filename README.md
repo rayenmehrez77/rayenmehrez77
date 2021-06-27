@@ -4,6 +4,6 @@
 
 ## I'm a Front end web Developer, and Student!
 
-- 🌱 I’m currently learning NEXT.JS 🤣
+- 🌱 I’m currently improving my React.JS skills 
 - 👯 Currently, I'm a computer science student
 - 🥅 2021 Goals: Contribute more to Open Source projects
